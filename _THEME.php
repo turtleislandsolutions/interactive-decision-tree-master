@@ -1,0 +1,1 @@
+<?php define("BOOTSTRAP_THEME","yeti.bootstrap.min.css");
